@@ -56,7 +56,7 @@
       preload: [0, 1]
     },
     image: {
-      tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
+      tError: '<a href="%url%" target="_blank">Click here #%curr%</a> to go to the deployed site.'
     }
   });
 
